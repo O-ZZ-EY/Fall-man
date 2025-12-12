@@ -1,0 +1,1500 @@
+fileFormatVersion: 2
+guid: 0a60a2b13c88140f98d89011f791083d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1182561948655928194
+    second: Floating Cliffs _ by Ev Ganin_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Floating Cliffs _ by Ev Ganin_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1153
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 283c78aa3dd496010800000000000000
+      internalID: 1182561948655928194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating Cliffs _ by Ev Ganin_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1153
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b02ae2918e3461f9b0d9f2336c047f
+      internalID: -1213068585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating Cliffs _ by Ev Ganin_2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1153
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174767830dab0439f8916aa4b223d34e
+      internalID: -1093980059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating Cliffs _ by Ev Ganin_3
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1153
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959924cfa417046debf3f0ec09457e5a
+      internalID: -1094834935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating Cliffs _ by Ev Ganin_4
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1153
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7b6f81616084ccba26a49d21ef8122
+      internalID: 454983017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating Cliffs _ by Ev Ganin_5
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1153
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c2ac4b93a434113946e4516b9d1d4a
+      internalID: -2067798503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating Cliffs _ by Ev Ganin_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1033
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3eb37724af240a2a8210e82b05a1ae
+      internalID: -1940955205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating Cliffs _ by Ev Ganin_7
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1033
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4b302623ee140719a2e13e7097925a
+      internalID: -313504166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating Cliffs _ by Ev Ganin_8
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1033
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86086496c244d4138a0aacd044673b7a
+      internalID: -910853688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating Cliffs _ by Ev Ganin_9
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1033
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c5abc97847b46b4bc40c2fa97ee3db
+      internalID: 1680745016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating Cliffs _ by Ev Ganin_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1033
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a07ac490e2d4b0cb56786177ce1ffd
+      internalID: -1664196676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating Cliffs _ by Ev Ganin_11
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1033
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf88d4b722454fad96c970e67a43363
+      internalID: 544878862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating Cliffs _ by Ev Ganin_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 913
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47cb221ec1b834da79b21e74e6313644
+      internalID: -1695626963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating Cliffs _ by Ev Ganin_13
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 913
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5758f2cbecf624d4ca30ab974804e741
+      internalID: 2044775447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating Cliffs _ by Ev Ganin_14
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 913
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4869b9de8bf84cd3a140ebfeaacd2fe
+      internalID: -123100835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating Cliffs _ by Ev Ganin_15
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 913
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e458b1ab1664701a608ede6970cf8f
+      internalID: -1055467410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating Cliffs _ by Ev Ganin_16
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 913
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc6a7f6440fb4126a187635e1491b5c
+      internalID: -1911538192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating Cliffs _ by Ev Ganin_17
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 913
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a186173934e4847f3bb15cac0f257f4f
+      internalID: 737854182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating Cliffs _ by Ev Ganin_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 793
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2780b00dda58949309a26121eb4fa609
+      internalID: 233715729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating Cliffs _ by Ev Ganin_19
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 793
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df469e36385f4baaa4fe97504418908
+      internalID: 782007001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating Cliffs _ by Ev Ganin_20
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 793
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6611ed7258eb4fae8f8e1ef2015b86e
+      internalID: -886002640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating Cliffs _ by Ev Ganin_21
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 793
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d8e0df8f24c4af592c2c68a1981d25
+      internalID: -1741698908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating Cliffs _ by Ev Ganin_22
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 793
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1aac351965047c49b5c8d52e5015e0
+      internalID: -950610221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating Cliffs _ by Ev Ganin_23
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 793
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02a2963e344c408fb6dc6db4e7f7c90
+      internalID: 1599088143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating Cliffs _ by Ev Ganin_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 673
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb99d345a3c44eada5fbfb30987b4cb
+      internalID: -1650731369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating Cliffs _ by Ev Ganin_25
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 673
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e6985e571d848ec82e904a2084d313
+      internalID: -810656412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating Cliffs _ by Ev Ganin_26
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 673
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee1d4f4c3b4249169171740354b1de8
+      internalID: -1102506121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating Cliffs _ by Ev Ganin_27
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 673
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1d0dbf5756c4a39a315cf5f9bda6c8
+      internalID: 2046041843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating Cliffs _ by Ev Ganin_28
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 673
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e678f861b6a6140149c7d96fefb48ad5
+      internalID: 1541595927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating Cliffs _ by Ev Ganin_29
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 673
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a80b8ab909a840cc9a73bcd55d5694c
+      internalID: -1374544224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating Cliffs _ by Ev Ganin_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 553
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab884869df294777b8fe7d283557a00
+      internalID: 396209012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating Cliffs _ by Ev Ganin_31
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 553
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c7f1349d52c4c3ab2c85b671f341ea
+      internalID: 90090112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating Cliffs _ by Ev Ganin_32
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 553
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cafcbcbbf48a4860bfc011567578500
+      internalID: -1710277530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating Cliffs _ by Ev Ganin_33
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 553
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2838a2d72b07249169b4b12e1c34aa68
+      internalID: -1498634809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating Cliffs _ by Ev Ganin_34
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 553
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57701c88ff2a49ea950d918d522416a
+      internalID: 1148506065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating Cliffs _ by Ev Ganin_35
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 553
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a0937fc1449431d9414f5e46cbec2d
+      internalID: -1103824058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating Cliffs _ by Ev Ganin_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 433
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebcc77d2318d94ed4a8d533e11e1bc26
+      internalID: 1420293248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating Cliffs _ by Ev Ganin_37
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 433
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58734e3e953fb4d1189480d0961c7d08
+      internalID: 111007116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating Cliffs _ by Ev Ganin_38
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 433
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10be86ac0825948ecb0ed05565f9adcc
+      internalID: -820862393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating Cliffs _ by Ev Ganin_39
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 433
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b264cc67756ec4d25af1f2b92f9a4a10
+      internalID: 1132798571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating Cliffs _ by Ev Ganin_40
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 433
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23fd23d0e11ec4e8698733c4f53e3fd4
+      internalID: -1304543563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating Cliffs _ by Ev Ganin_41
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 433
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3d7756873104ae092859c3e89e6c2d
+      internalID: 56112992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating Cliffs _ by Ev Ganin_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 313
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f9f9ae501d346c78fbbb92da3d7322
+      internalID: -936361638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating Cliffs _ by Ev Ganin_43
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 313
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993d955dbee204ba69582631967ba402
+      internalID: -1989914071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating Cliffs _ by Ev Ganin_44
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 313
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947a8a5e3ef1d4ee3b36a4c9d84f8f91
+      internalID: 1782710916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating Cliffs _ by Ev Ganin_45
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 313
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6240d345f4dd24698af79df887bdec0c
+      internalID: -950111815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating Cliffs _ by Ev Ganin_46
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 313
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a153fe42308246c09e1b56b85736705
+      internalID: 1297527295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating Cliffs _ by Ev Ganin_47
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 313
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389536b0d81ee44bf9aa3f4d5e77a66f
+      internalID: 263144316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating Cliffs _ by Ev Ganin_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 193
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7874c507a44435a858a613588a7479
+      internalID: 999882147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating Cliffs _ by Ev Ganin_49
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 193
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113bffaf5d6764badbc56cb420b0391e
+      internalID: 449219539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating Cliffs _ by Ev Ganin_50
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 193
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649d56dd4f76e4521ba090f0633197c8
+      internalID: 1752595217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating Cliffs _ by Ev Ganin_51
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 193
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5656b4a2a30ed45f5b011afc5ef3a02a
+      internalID: -938774521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating Cliffs _ by Ev Ganin_52
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 193
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8665aacab8104ae9b93a9e5b625cc8d
+      internalID: -2064593277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating Cliffs _ by Ev Ganin_53
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 193
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa629667986b40b3b13e2b228d778c6
+      internalID: -875298382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating Cliffs _ by Ev Ganin_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 73
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2196094155bba432391b838e3728332f
+      internalID: 1544979539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating Cliffs _ by Ev Ganin_55
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 73
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ebba8d638e8343729d66ec46d48745a
+      internalID: -1572890425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating Cliffs _ by Ev Ganin_56
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 73
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0c275a469a445fa9c4f49173c7fe5f
+      internalID: 1230068628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating Cliffs _ by Ev Ganin_57
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 73
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb01b7ae7ac24f3397f0bcfadd60871
+      internalID: 1578651695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating Cliffs _ by Ev Ganin_58
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 73
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ba7c3bac9b44417984fbe605f2c4a0
+      internalID: -199215237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating Cliffs _ by Ev Ganin_59
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 73
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac327eb84d1e54b88a033057c706ab84
+      internalID: -1691118398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 439b80c1b5e83432bb943672eb7427c7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Floating Cliffs _ by Ev Ganin_0: 1182561948655928194
+      Floating Cliffs _ by Ev Ganin_1: -1213068585
+      Floating Cliffs _ by Ev Ganin_10: -1664196676
+      Floating Cliffs _ by Ev Ganin_11: 544878862
+      Floating Cliffs _ by Ev Ganin_12: -1695626963
+      Floating Cliffs _ by Ev Ganin_13: 2044775447
+      Floating Cliffs _ by Ev Ganin_14: -123100835
+      Floating Cliffs _ by Ev Ganin_15: -1055467410
+      Floating Cliffs _ by Ev Ganin_16: -1911538192
+      Floating Cliffs _ by Ev Ganin_17: 737854182
+      Floating Cliffs _ by Ev Ganin_18: 233715729
+      Floating Cliffs _ by Ev Ganin_19: 782007001
+      Floating Cliffs _ by Ev Ganin_2: -1093980059
+      Floating Cliffs _ by Ev Ganin_20: -886002640
+      Floating Cliffs _ by Ev Ganin_21: -1741698908
+      Floating Cliffs _ by Ev Ganin_22: -950610221
+      Floating Cliffs _ by Ev Ganin_23: 1599088143
+      Floating Cliffs _ by Ev Ganin_24: -1650731369
+      Floating Cliffs _ by Ev Ganin_25: -810656412
+      Floating Cliffs _ by Ev Ganin_26: -1102506121
+      Floating Cliffs _ by Ev Ganin_27: 2046041843
+      Floating Cliffs _ by Ev Ganin_28: 1541595927
+      Floating Cliffs _ by Ev Ganin_29: -1374544224
+      Floating Cliffs _ by Ev Ganin_3: -1094834935
+      Floating Cliffs _ by Ev Ganin_30: 396209012
+      Floating Cliffs _ by Ev Ganin_31: 90090112
+      Floating Cliffs _ by Ev Ganin_32: -1710277530
+      Floating Cliffs _ by Ev Ganin_33: -1498634809
+      Floating Cliffs _ by Ev Ganin_34: 1148506065
+      Floating Cliffs _ by Ev Ganin_35: -1103824058
+      Floating Cliffs _ by Ev Ganin_36: 1420293248
+      Floating Cliffs _ by Ev Ganin_37: 111007116
+      Floating Cliffs _ by Ev Ganin_38: -820862393
+      Floating Cliffs _ by Ev Ganin_39: 1132798571
+      Floating Cliffs _ by Ev Ganin_4: 454983017
+      Floating Cliffs _ by Ev Ganin_40: -1304543563
+      Floating Cliffs _ by Ev Ganin_41: 56112992
+      Floating Cliffs _ by Ev Ganin_42: -936361638
+      Floating Cliffs _ by Ev Ganin_43: -1989914071
+      Floating Cliffs _ by Ev Ganin_44: 1782710916
+      Floating Cliffs _ by Ev Ganin_45: -950111815
+      Floating Cliffs _ by Ev Ganin_46: 1297527295
+      Floating Cliffs _ by Ev Ganin_47: 263144316
+      Floating Cliffs _ by Ev Ganin_48: 999882147
+      Floating Cliffs _ by Ev Ganin_49: 449219539
+      Floating Cliffs _ by Ev Ganin_5: -2067798503
+      Floating Cliffs _ by Ev Ganin_50: 1752595217
+      Floating Cliffs _ by Ev Ganin_51: -938774521
+      Floating Cliffs _ by Ev Ganin_52: -2064593277
+      Floating Cliffs _ by Ev Ganin_53: -875298382
+      Floating Cliffs _ by Ev Ganin_54: 1544979539
+      Floating Cliffs _ by Ev Ganin_55: -1572890425
+      Floating Cliffs _ by Ev Ganin_56: 1230068628
+      Floating Cliffs _ by Ev Ganin_57: 1578651695
+      Floating Cliffs _ by Ev Ganin_58: -199215237
+      Floating Cliffs _ by Ev Ganin_59: -1691118398
+      Floating Cliffs _ by Ev Ganin_6: -1940955205
+      Floating Cliffs _ by Ev Ganin_7: -313504166
+      Floating Cliffs _ by Ev Ganin_8: -910853688
+      Floating Cliffs _ by Ev Ganin_9: 1680745016
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
